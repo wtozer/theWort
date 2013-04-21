@@ -10,3 +10,11 @@
 - 5g Irish moss
 - SafaleS-04
 
+
+
+# Gear
+
+Brew bag from Dave's (5kg)
+false bottom vessel?
+
+Mini mash possible
