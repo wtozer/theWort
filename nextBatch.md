@@ -11,8 +11,16 @@
 - SafaleS-04
 
 
+## Best bitter ##
 
-# Gear
+- 5kg pale ale malt
+- 200g crystal malt
+- 45g chocolate malt
+- 20g UK challenger
+- 20g UK braming cross
+- 16g UK fuggles
+
+## Gear
 
 Brew bag from Dave's (5kg)
 false bottom vessel?
