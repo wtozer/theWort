@@ -2,7 +2,17 @@ Title:	   BEER LOG
 Author:	   Daniel Falster
 Tags:
 
+# 2013.04.13 (Rich)
 
+* Muntons connoisseurs "ESB Bitter"
+* Morgans master lager pale malt extract
+* 2 x 15g Cascade dry hops (Coppertun)
+* Kit yeast
+
+Basic kit brew (no boil).  Added 1 hop packet during making, and one
+four days after getting the brew going.  Brewed for 16 days (Saturday
+13th to Tuesday 30th April) and bottled into plastic after bulk
+priming.
 
 # 2013.02.22  Triple wort with Wade and Rich #
 
