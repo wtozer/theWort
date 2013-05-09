@@ -17,30 +17,43 @@ priming.
 # 2013.02.22  Triple wort with Wade and Rich #
 
 ## Yorkshire bitter ##
-Muntons connoisseurs yorkshire bitter
-Morgans master lager pale malt extract
-15g Fuggles dry hops (Coppertun)
-Kit yeast
+* Muntons connoisseurs yorkshire bitter
+* Morgans master lager pale malt extract
+* 15g Fuggles dry hops (Coppertun)
+* Kit yeast
+
+### Tasting notes:
+
+* **Rich**: nice and easy drinking.  Could have been a bit more bitter
+  and hoppy, but a good session beer.
 
 ## ESB extra special stout (big purple can) ##
 
 comes with safale s04 dry ale yeast (english ale yeast)
 yeast pitched at 27deg (should have been max 24)
 
-##Irish Red Ale 
+### Tasting notes:
+
+* **Rich**: despite good online reviews for this kit, a little
+  disappointed with the beer, as it feels like it should have had a
+  bit more body.  Definitely improving with age though (at 6 weeks
+  after bottling).
+
+## Irish Red Ale 
 pg 174 from The complete joy of homebrewing
 
-5 lbs (2.3 kg) Briess amber malt extract syrup [used 1.5kg of caramalt extract plus 1kg dry malt, amber]
-1lb (450 g) crystal malt
-1/2 lb (225 g) toasted malted barley
-1 oz. (28 g) Nothern Brewer hops (boiling) * HBU (225 MBU)
-1 oz. (28 g) Santiam or Tettnagnger hops (aroma)
-American-type ale yeas [safale 05]
-3/4c (175 ml) corn sugar OR 1 3/4 c (300ml) dried malt extract (for bottling).
+* 5 lbs (2.3 kg) Briess amber malt extract syrup [used 1.5kg of caramalt extract plus 1kg dry malt, amber]
+* 1lb (450 g) crystal malt
+* 1/2 lb (225 g) toasted malted barley
+* 1 oz. (28 g) Nothern Brewer hops (boiling) * HBU (225 MBU)
+* 1 oz. (28 g) Santiam or Tettnagnger hops (aroma)
+* American-type ale yeas [safale 05]
+* 3/4c (175 ml) corn sugar OR 1 3/4 c (300ml) dried malt extract (for bottling).
 
-O.G. 1.042-1.046 (10.5-11.5)
-E.G. 1.010-1.014 (2.5-3.5)
-Bitterness 30 IBU.  Colour 15 SRM (30 EBC)
+| O.G.       |  1.042-1.046 (10.5-11.5) |
+| E.G.       | 1.010-1.014 (2.5-3.5)    |
+| Bitterness | 30 IBU                   |
+| Colour     | 15 SRM (30 EBC)          |
 
 Prepare the toasted malt as described in the Pahlaha India Pale Ale recipe.
 
@@ -49,6 +62,12 @@ Add the cracked crystal malt and cracked toasted barley to 1.5 gal (5.7L) cold w
 Add the malt extract and Northern Brewer hops and boil for 60 minutes.  Add the aroma hops during the final 1 minute of boiling.  Strain and ???spurge??? the wort into 2 gallons (7.5L) of cold water in the fermenter.  Top off with additional water to make 5 gallons (19l).  When it cools add ale yeast.
 
 Ferment, bottle and watch the sunset over an Irish Red.
+
+## Tasting notes
+
+* **Rich**: Really impressed by this one.  Nice and malty with enough
+  hoppiness to balance it out.  Also improved with age (better 4 weeks
+  after bottling).
 
 # 2013.02.23 #
 
