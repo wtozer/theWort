@@ -1,6 +1,37 @@
 Title:	   BEER LOG
-Author:	   Daniel Falster
+Author:	   Daniel Falster, Rich FitzJohn, Wade Tozer
 Tags:
+
+# 2013.05.11 
+
+## Best bitter
+
+[insert recipe here]
+
+### Our notes:
+
+Started wort at 6:25: 67C @ 6:25, 62C @ 7:00, 64.5C @ 7:20 (done in cooler)
+
+About 3 L / kg for the wort, 2L of warm water added at 30 min, another 15L for the sparge.
+
+Boil at 8:50
+
+Added 35g Challenger hops
+
+## Bock - pre mixed fresh wort
+
+
+## Dogfishhead 60 minute IPA
+
+[insert recipe here]
+
+### Our notes:
+
+Started wort at 6:45 67C @ 6:45, 65C @ 7:05, 62C @ 7:20 (done in large pot).  This really was a bit cool and may have hampered extraction.
+
+Boil started at 8:40.
+
+Added 15g Galaxy and 30g Simco continually for 60 minutes after initial 15 min
 
 # 2013.04.13 (Rich)
 
