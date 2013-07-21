@@ -2,11 +2,22 @@ Title:	   BEER LOG
 Author:	   Daniel Falster, Rich FitzJohn, Wade Tozer
 Tags:
 
-# 2013.05.11 
+# 2013.05.11
 
 ## Best bitter
 
-[insert recipe here]
+### Ingredients
+
+- 5kg pale ale malt
+- 200g crystal malt
+- 45g chocolate malt
+- 20g UK challenger
+- 20g Fuggles hops (in place of UK braming cross)
+- 16g UK fuggles
+- 1 teaspoon irish moss
+- SafaleS-04
+
+Cost = $28 (Dave's bill: $44)
 
 ### Our notes:
 
@@ -23,7 +34,17 @@ Added 35g Challenger hops
 
 ## Dogfishhead 60 minute IPA
 
-[insert recipe here]
+### Ingredients
+
+- 6kg pale ale malt (Original calls for 3.2kg dry malt extract)
+- 170g Amber malt
+- 15g Warrior hops
+- 30g Simcoe hops
+- 60g Galaxy hops (in place of Amarillo)
+- 5g Irish moss
+- SafaleS-04
+
+Cost = $33 (Dave's bill: $47)
 
 ### Our notes:
 
@@ -32,6 +53,10 @@ Started wort at 6:45 67C @ 6:45, 65C @ 7:05, 62C @ 7:20 (done in large pot).  Th
 Boil started at 8:40.
 
 Added 15g Galaxy and 30g Simco continually for 60 minutes after initial 15 min
+
+### tasting notes
+
+Fantastic!
 
 # 2013.04.13 (Rich)
 
@@ -70,7 +95,7 @@ yeast pitched at 27deg (should have been max 24)
   bit more body.  Definitely improving with age though (at 6 weeks
   after bottling).
 
-## Irish Red Ale 
+## Irish Red Ale
 pg 174 from The complete joy of homebrewing
 
 * 5 lbs (2.3 kg) Briess amber malt extract syrup [used 1.5kg of caramalt extract plus 1kg dry malt, amber]
@@ -105,7 +130,7 @@ Ferment, bottle and watch the sunset over an Irish Red.
 [Andrea uncovered this site with some good recipes](http://drinks.seriouseats.com/2013/02/best-homebrewing-recipes-how-to-brew-your-own-beer.html)
 
 # 2013.02.13 #
-[Interesting article about local beer production in SMH weekend paper](http://smh.com.au/business/bitter-battles-in-what-looks-to-be-an-ailing-market-20130208-2e3wx.html). 
+[Interesting article about local beer production in SMH weekend paper](http://smh.com.au/business/bitter-battles-in-what-looks-to-be-an-ailing-market-20130208-2e3wx.html).
 
 The plots are most interesting, showing
 
@@ -113,12 +138,12 @@ The plots are most interesting, showing
 - that cost of production for a case of beer is about $14, which is about the same as home-brew (but excluding labour). So most of our savings come through avoiding tax and profit margins.
 
 
-# 2013.01.12 Galaxy Pale Ale, Sparkling Aussie Ale #
+# 2013.01.12 Galaxy Pale Ale, Sparkling Aussie Ale
 Brewed with Rich FitzJohn and Andrea Stephens, over dinner (thai chicken, coconut rice, thai salad), wine and old homebrew.
 
 ##Galaxy Pale Ale
 Boiled by Craig on 31/12/2012, started on 12/01/2013 with Safale Red Yeast.
-Initial: 1.054 
+Initial: 1.054
 Ferment: 2 weeks
 Bottled: 2013.01.26. Tasted delicious. Bulk primed with 120g of brew booster (dextrose and maltodextrin)
 

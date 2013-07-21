@@ -1,40 +1,38 @@
 ## 60-minutpe IPA
 
-### Ingredients 
+### Ingredients
 
-- 3.2kg dry malt extract, 25kg for $66 = 131
-	- (Swap for 6kg pale ale malt)
+Original:
+- 6kg pale ale malt
 - 170g Amber malt
-- 15g Warrior hops, $12 for 100g = $2 
-- 30g Simcoe hops, , $12 for 100g = $4
-- 60g Amarillo hops, $12 for 100g = $8
-	-  (Swap for Galaxy hops)
-- 5g Irish moss, 25g for $5 = $1
-- SafaleS-04, $5
+- 15g Warrior hops
+- 30g Simcoe hops
+- 60g Amarillo / Galaxy hops
+- 5g Irish moss
+- SafaleS-04
 
-Cost = $33 (Dave's bill: $47)
+Multiply by 1.333:
 
-## Best bitter ##
+- 8kg pale ale malt
+- 225g Amber malt
+- 20g Warrior hops
+- 40g Simcoe hops [have 60g]
+- 80g Amarillo / Galaxy hops [have 40 +50 ]
+- 5g Irish moss [have this]
+- SafaleS-04
 
-- 5kg pale ale malt, 25kg for $66 = 13
-- 200g crystal malt, 1kg for $6.60 = 1.3
-- 45g chocolate malt, 1kg for $6.60 =  1.3
-- 20g UK challenger, $12 for 100g = $2.5
-- 20g UK braming cross, $12 for 100g = $2.5
-	- (Swap for Fuggles hops)
-- 16g UK fuggles, $12 for 100g = $2 
-- 1 teaspoon irish moss, 25g for $5 = $1
-- London ale - WY-1318, $5
-	- (Swap for SafaleS-04)
+## Irish Red Ale
 
-Cost = $28 (Dave's bill: $44)
+### Ingredients
 
-## Gear
+- 1.5kg of caramalt extract plus 1kg dry malt, amber
+- 450 g crystal malt
+- 225 g toasted malted barley
+- 28 g Nothern Brewer hops (boiling) * HBU (225 MBU)
+- 28 g Santiam or Tettnagnger hops (aroma)
+- Safale 05
 
-Brew bag from Dave's (5kg)
-false bottom vessel?
-
-Mini mash possible
+Have Fuggles 5% and Challenger 7.5
 
 ## Dave's notes
 3 L /kg for mash
