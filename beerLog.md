@@ -2,6 +2,11 @@ Title:	   BEER LOG
 Author:	   Daniel Falster, Rich FitzJohn, Wade Tozer
 Tags:
 
+# 2013.07.28
+
+Costing is easy, grain $5.00 per Kilo, hops $12.00 per 100g jar, yeast $5.00 per sachet, Liquid malt $14.50 per can and dry malt $13.50.
+Cheers
+
 # 2013.05.11
 
 ## Best bitter
@@ -38,13 +43,45 @@ Added 35g Challenger hops
 
 - 6kg pale ale malt (Original calls for 3.2kg dry malt extract)
 - 170g Amber malt
-- 15g Warrior hops
+- 15g Warrior hops [we used extra Simcoe]
 - 30g Simcoe hops
 - 60g Galaxy hops (in place of Amarillo)
 - 5g Irish moss
 - SafaleS-04
 
 Cost = $33 (Dave's bill: $47)
+
+For the hop mix:
+
+### Recipe
+
+This is a DIY version of Dogfish Head's best selling beer.  This beer uses a unique method called continual hopping.  Traditionally, beers are brewed with two major hop additions: one early in the boil for bitterness and one at the end of the boil for aroma.  We asked ourselves: "What would happen if we did a series of minor hop additions that occur evenly throughout the length of the boil?"  From this, the idea of continual hopping was born.  This recipe calls for adding the small doses of hops by hand but you can also make your own continual-hopping device.
+
+1. In a brew kettle, heat 6 gallons (23 L) of water to 150F (66C).  In a grain bag, add the crushed British amber malt.  Allow to steep for 15 minutes.
+2. Remove the grain bag and bring the water to a boil.  While waiting for a boil, blend together the Warrior hops with 1/2 oz (15g) of Simcoe and 1/2 oz (15g) of Amarillo hops.
+3. Remove from heat and add the light malt extract
+4. Return to a boil
+5. After 15 minutes, begin adding the hops blend a little at a time so it takes 60 minutes to add all the hops to the kettle.
+6. After 60 minutes, remove the kettle from the heat and and stir the wort to create a whirlpool while adding another 15 g of Amarillo hops to the liquid.  Cover and allow to settle for 20 minutes.
+7. Cool the wort and rack to a fermenter, leaving as many of the solids behind in the kettle as possible (it's okay to get some sediment into the fermenter as it's beneficial to yeast health)
+8. Pitch the cooled wort with ale yeast and ferment at around 20-22C.  "Rock the baby" to aerate the wort.
+9. After 6 to 7 days, rack the beer to the secondary fermenter leaving behind as much yeast and trub as possible and add 1oz (28g) of Amarillo hops and 1/2 oz (15 g) of Simcoe hops.
+10. Allow beer to condition in a secondary fermenter for 12 to 14 days.
+11. Before bottling, clean and sanitise bottles and caps and creating a priming solution of 1cup boiling water and priming sugar.  Siphon beer into a sterilised bottling bucket, add the water-diluted priming solution, and gently stir.  Note: A hop bag, or some type of coarse clothing over the end of the racking cane will help prevent it from getting stopped up by the hops from dry hopping.  Bottle and cap beer.  Beer will be ready to drink in about 2 weeks.
+
+### Our method:
+
+3 l per kg grain (24 l of 8 kg grain plus amber).  In at 5:00.  67C after adding grain and warmed to 70C.
+
+As soon as the mash begins, start warming up the sparge water.  We used 10L at 70C.
+
+Pour off the mash water into a spare vessel.  Add the warm sparge water and stir around and ring out the bag of grain until bored.
+
+Pour all the liquid back into the big pot and put on to start the boil.
+
+We've substituted for the Warrior: Galaxy?
+
+The Irish moss goes in at 10 minutes before the end.
 
 ### Our notes:
 
@@ -113,7 +150,7 @@ pg 174 from The complete joy of homebrewing
 
 Prepare the toasted malt as described in the Pahlaha India Pale Ale recipe.
 
-Add the cracked crystal malt and cracked toasted barley to 1.5 gal (5.7L) cold water and steep at 150-160F (65-71C) for 30 minutes.  Remove the bag/grains with a strainer.
+Add the cracked crystal malt and cracked toasted barley to 1.5 gal (5.7L) cold water and steep at 150-160F (65-71C) for 30 minutes.  Remove the bag/grains with a strainer.  Yes, really add when cold.
 
 Add the malt extract and Northern Brewer hops and boil for 60 minutes.  Add the aroma hops during the final 1 minute of boiling.  Strain and ???spurge??? the wort into 2 gallons (7.5L) of cold water in the fermenter.  Top off with additional water to make 5 gallons (19l).  When it cools add ale yeast.
 
