@@ -1,6 +1,48 @@
 Title:	   BEER LOG
 Author:	   Daniel Falster, Rich FitzJohn, Wade Tozer
-Tags:
+
+# 2013.12.28 Brewing at Strathfield
+
+## American wheat beer 
+(This is an untested recipe from the book - 'brewing classic styles' using an all-grain method)
+
+- 2.72kg Cracked pale malt (recipe calls for 'American two-row malt')
+- 2.72kg cracked wheat malt
+(mash at 67 deg (+ or -) for 60 mins and then boil for 60 mins)
+
+
+Hops
+
+- 28g Willamette 5.0% AA (60 mins)
+- 14g Willamette 5.0% AA (0 mins) (recipe calls for 9g)
+- 12g Hallertau 'finishing' hops 8%AA (0 mins) (recipe calls for 9g Centennial 9.0% AA)
+
+Yeast: Fermentis Safale US-05 
+
+
+## Irish Red Ale 
+
+based on a recipe from the book 'The complete joy of homebrewing' and modified slightly over time
+
+- 1.7kg of caramalt extract
+- 1kg dry malt, amber
+- 450g crystal malt (cracked)
+- 225g toasted malted barley (cracked)
+- 33g Nothern Brewer hops (recipe asks for 28g)
+- 32g Tettnagnger hops (recipe asks for 28g)
+- safale 05 yeast
+
+Add the cracked crystal malt and cracked toasted barley to 1.5 gal (5.7L) cold water and steep at 150-160F (65-71C) for 30 minutes. Add the malt extract and Northern Brewer hops and boil for 60 minutes. Add the aroma hops during the final 1 minute of boiling. Strain and spurge the wort into 2 gallons (7.5L) of cold water in the fermenter. Top off with additional water to make 5 gallons (20l). 
+
+
+## Muntons bitter
+
+- Muntons connoisseurs  "Traditional Bitter"
+- Morgans master lager pale malt extract
+- 2 x 15g Cascade dry hops (Coppertun)
+- yeast (as provided in kit)
+
+2 boxes per batch (30 bottles) x 3 batches = 90 bottles
 
 # 2013.07.28
 
